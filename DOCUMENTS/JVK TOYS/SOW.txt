@@ -1,0 +1,40 @@
+Author : Nabarun Samaddar
+Date : 26/11/2024
+
+
+Reviewer 1 : Guy Scott
+Reviewer 2 : Ayan Ghosh
+Reviewer 3 : Joy Mitra
+
+
+URL 1 :  https://pablosdiecastgarage.com/
+URL 2 : https://www.jvktoys.com/
+
+
+TODO : Update in URL 2
+GO Through : URL 1
+
+1. Credentials :
+
+	A. Id : guy@yourflow.com.au
+	B. Password : Your@2020
+
+
+2. Section : Body
+
+	A. Put Banner : Done
+
+
+2. Section : Navbar
+
+	A. Put logo in the centre : WIP
+	B. Add new action links in centre
+		I. New Arrivals : Done
+		II. Pre-Orders : Done
+		III. Log in : Done
+
+
+
+
+
+
